@@ -24,23 +24,28 @@ I'm **`MOHAMMED SHAMSHAD`**, A passionate Data Analyst with strong expertise in 
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div align="center">
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      ### Additional Skills:
-    - Data Cleaning & Transformation
-    - EDA
-    - Numerical data analysis
-    - Statistical data analysis
-    - Extract, Transform, Load
-    - Pivot tables
-    - Macros
-    - VBA
-    - Power query
-
   </div>
+
+  <br>
+
+  <h3 align="center">Additional Skills</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4A90E2?style=flat&logoColor=white" alt="Data Cleaning & Transformation" />
+    <img src="https://img.shields.io/badge/EDA-FF6600?style=flat&logoColor=white" alt="EDA" />
+    <img src="https://img.shields.io/badge/Numerical%20Data%20Analysis-000000?style=flat&logoColor=white" alt="Numerical Data Analysis" />
+    <img src="https://img.shields.io/badge/Statistical%20Data%20Analysis-8A2BE2?style=flat&logoColor=white" alt="Statistical Data Analysis" />
+    <img src="https://img.shields.io/badge/ETL-2E8B57?style=flat&logoColor=white" alt="Extract, Transform, Load" />
+    <img src="https://img.shields.io/badge/Pivot%20Tables-2C6EB2?style=flat&logoColor=white" alt="Pivot Tables" />
+    <img src="https://img.shields.io/badge/Macros-0078D4?style=flat&logoColor=white" alt="Macros" />
+    <img src="https://img.shields.io/badge/VBA-9C27B0?style=flat&logoColor=white" alt="VBA" />
+    <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat&logoColor=white" alt="Power Query" />
+  </p>
+</div>
 
 
 ---
