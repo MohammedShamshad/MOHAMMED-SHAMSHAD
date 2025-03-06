@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **[`MOHAMMED SHAMSHAD`]**,A passionate Data Analyst with strong expertise in extracting insights and driving business decisions through data analysis and visualization. With a solid foundation in MS Excel, SQL, Python, and Power BI. Specialize in transforming raw data into actionable insights. 
+I'm **`MOHAMMED SHAMSHAD`**, A passionate Data Analyst with strong expertise in extracting insights and driving business decisions through data analysis and visualization. With a solid foundation in MS Excel, SQL, Python, and Power BI. Specialize in transforming raw data into actionable insights. 
 
 <a href="https://www.linkedin.com/in/shamshad-miv"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -29,7 +29,7 @@ I'm **[`MOHAMMED SHAMSHAD`]**,A passionate Data Analyst with strong expertise in
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <alt="Java" />
 
 
   </div>
