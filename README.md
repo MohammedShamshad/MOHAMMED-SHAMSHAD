@@ -29,14 +29,17 @@ I'm **`MOHAMMED SHAMSHAD`**, A passionate Data Analyst with strong expertise in 
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Data%20Cleaning-4A90E2?style=for-the-badge&logo=data%20cleaning&logoColor=white" alt="Data Cleaning" />
-      <img src="https://img.shields.io/badge/SQL%20Optimization-FF6600?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Optimization" />
-      <img src="https://img.shields.io/badge/Data%20Visualization-000000?style=for-the-badge&logo=data%20visualization&logoColor=white" alt="Data Visualization" />
-      <img src="https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=network-security&logoColor=white" alt="Network Security" />
-      <img src="https://img.shields.io/badge/PowerShell-2C6EB2?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-      <img src="https://img.shields.io/badge/Cloud%20Computing-A80000?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
-      <img src="https://img.shields.io/badge/Agile%20Methodology-9C27B0?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Methodology" />
+      <img src="https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4A90E2?style=for-the-pill&logo=data%20cleaning&logoColor=white" alt="Data Cleaning & Transformation" />
+      <img src="https://img.shields.io/badge/SQL%20Query%20Optimization-FF6600?style=for-the-pill&logo=sql&logoColor=white" alt="SQL Query Optimization" />
+      <img src="https://img.shields.io/badge/Data%20Visualization%20Techniques-000000?style=for-the-pill&logo=data%20visualization&logoColor=white" alt="Data Visualization Techniques" />
+      <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Reporting-8A2BE2?style=for-the-pill&logo=data%20analysis&logoColor=white" alt="Data Analysis & Reporting" />
+      <img src="https://img.shields.io/badge/Network%20Security%20%26%20Reconnaissance-2E8B57?style=for-the-pill&logo=network-wired&logoColor=white" alt="Network Security & Reconnaissance" />
+      <img src="https://img.shields.io/badge/PowerShell%20Scripting-2C6EB2?style=for-the-pill&logo=powershell&logoColor=white" alt="PowerShell Scripting" />
+      <img src="https://img.shields.io/badge/Cloud%20Computing%20%28Azure%29-0078D4?style=for-the-pill&logo=microsoft-azure&logoColor=white" alt="Cloud Computing (Azure)" />
+      <img src="https://img.shields.io/badge/Problem%20Solving%20%26%20Critical%20Thinking-9C27B0?style=for-the-pill&logo=brain&logoColor=white" alt="Problem Solving & Critical Thinking" />
+      <img src="https://img.shields.io/badge/Agile%20Methodology%20%26%20Collaboration-F2C811?style=for-the-pill&logo=agile&logoColor=white" alt="Agile Methodology & Collaboration" />
 
+   
 
   </div>
 
